@@ -38,6 +38,7 @@ The users can interact with the app by buying and selling products and integrate
 ##Screens
 
 **Splash Screen**
+
 ![Splash Screen](images_git/splash_screen.png)
 
 **Login Screen**
