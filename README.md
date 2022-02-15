@@ -35,37 +35,48 @@ The users can interact with the app by buying and selling products and integrate
 
 ---
 
-##Screens
+## Screens
 
 **Splash Screen**
+
 ![Splash Screen](images_git/splash_screen.png)
 
 **Login Screen**
+
 ![Login Screen](images_git/login.png)
 
 **Administrator Menu Screen**
+
 ![Administrator Menu Screen](images_git/menu_admin.png)
 
 **Regular Menu Screen**
+
 ![Regular Menu Screen](images_git/menu_regular.png)
 
 **Sell Screen**
+
 ![Sell Screen](images_git/sell.png)
 
 **Buy Screen**
+
 ![Buy Screen](images_git/buy.png)
 
 **Search Screen**
+
 ![Search Screen](images_git/search.png)
 
 **List Screen**
+
 ![List Screen](images_git/list.png)
 
 **Suppliers Screen**
+
 ![Suppliers Screen](images_git/suppliers.png)
 
 **Warehouse Screen**
+
 ![Warehouse Screen](images_git/warehouses.png)
 
 **Settings Screen**
+
 ![Settings Screen](images_git/users.png)
