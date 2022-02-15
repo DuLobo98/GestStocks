@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.duartelobo.geststocks">
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DefinicoesActivity"
+            android:label="Definições"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RegistarActivity"
+            android:label="Registar Artigos"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ListarActivity"
+            android:label="Listar Artigos"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ProcurarActivity"
+            android:label="Procurar Artigos"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ArmazemActivity"
+            android:label="Gestão de Armazéns"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".VendaActivity"
+            android:label="Efetuar Venda"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FornecedoresActivity"
+            android:label="Gestão de Fornecedores"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MenuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MenuClienteActivity"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

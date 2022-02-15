@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GestStocks</string>
+    <string-array name="u_medida">
+        <item>Kg-Quilograma</item>
+        <item>Un-Unidade</item>
+        <item>L-Litro</item>
+        <item>M-Metros</item>
+    </string-array>
+    <string-array name="procura">
+        <item>Código</item>
+        <item>Armazém</item>
+        <item>Nome</item>
+    </string-array>
+    <string-array name="armazem">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="listar">
+        <item>Produtos</item>
+        <item>Fornecedores</item>
+        <item>Armazéns</item>
+        <item>Compras</item>
+        <item>Vendas</item>
+    </string-array>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
