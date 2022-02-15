@@ -33,7 +33,6 @@ The users can interact with the app by buying and selling products and integrate
     - Sales
     - Purchases
 
----
 
 ## Screens
 
